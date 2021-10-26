@@ -6,12 +6,17 @@
    <modelVersion>4.0.0</modelVersion>
    <groupId>com.github.outsystems</groupId>
    <artifactId>oshealthfitness-android</artifactId>
-   <version>0.0.4</version>
+   <version>0.0.5</version>
    <dependencies>
         <dependency>
             <groupId>com.github.outsystems</groupId>
             <artifactId>oscore-android</artifactId>
             <version>0.0.3</version>
+          </dependency>
+          <dependency>
+              <groupId>io.realm</groupId>
+              <artifactId>realm-android-library</artifactId>
+              <version>10.8.0</version>
           </dependency>
     </dependencies>
 </project>
