@@ -5,6 +5,6 @@ import Foundation
 @_exported import OSCore
 import Swift
 import _Concurrency
-public protocol IOSPlatformInterface {
+public protocol PlatformProtocol {
   func sendResult(result: Swift.String?, error: Foundation.NSError?, callBackID: Swift.String)
 }
