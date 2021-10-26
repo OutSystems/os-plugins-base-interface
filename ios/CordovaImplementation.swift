@@ -1,4 +1,5 @@
 import Foundation
+import OSCore
 
 class CordovaImplementation: CDVPlugin, PlatformProtocol {
 
