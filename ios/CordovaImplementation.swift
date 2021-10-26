@@ -1,6 +1,6 @@
 import Foundation
 
-class CordovaImplementation: CDVPlugin, IOSPlatformInterface {
+class CordovaImplementation: CDVPlugin, PlatformInterface {
 
     func sendResult(result: String?, error: NSError?, callBackID:String) {
             var pluginResult = CDVPluginResult (status: CDVCommandStatus_ERROR);
@@ -26,7 +26,7 @@ class CordovaImplementation: CDVPlugin, IOSPlatformInterface {
 }
 
 
-class ReactNativeImplementation: IOSPlatformInterface {
+class ReactNativeImplementation: PlatformInterface {
     
     // for future implementations we can use react native
     func sendResult(result: String?, error: NSError?, callBackID:String) {
