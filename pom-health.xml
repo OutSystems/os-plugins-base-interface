@@ -6,7 +6,7 @@
    <modelVersion>4.0.0</modelVersion>
    <groupId>com.github.outsystems</groupId>
    <artifactId>oshealthfitness-android</artifactId>
-   <version>0.0.6</version>
+   <version>0.0.8</version>
    <dependencies>
         <dependency>
             <groupId>com.github.outsystems</groupId>
