@@ -23,10 +23,5 @@
             <artifactId>room-compiler</artifactId>
             <version>2.3.0</version>
         </dependency>  
-        <dependency>
-            <groupId>androidx.room<groupId>
-            <artifactId>room-ktx</artifactId>
-            <version>2.3.0</version>
-        </dependency>
     </dependencies>
 </project>
