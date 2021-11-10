@@ -12,7 +12,5 @@
             <groupId>com.github.outsystems</groupId>
             <artifactId>oscore-android</artifactId>
             <version>0.0.3</version>
-        </dependency>
-        
     </dependencies>
 </project>
