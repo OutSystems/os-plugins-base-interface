@@ -7,4 +7,26 @@
    <groupId>com.github.outsystems</groupId>
    <artifactId>oshealthfitness-android</artifactId>
    <version>0.0.26</version>
+   <dependencies>
+        <dependency>
+            <groupId>androidx.room<groupId>
+            <artifactId>room-runtime</artifactId>
+            <version>2.3.0</version>
+        </dependency>
+        <dependency>
+            <groupId>androidx.room<groupId>
+            <artifactId>room-compiler</artifactId>
+            <version>2.3.0</version>
+        </dependency>
+        <dependency>
+            <groupId>androidx.room<groupId>
+            <artifactId>room-ktx</artifactId>
+            <version>2.3.0</version>
+        </dependency>
+        <dependency>
+            <groupId>android.arch.persistence.room<groupId>
+            <artifactId>compiler<artifactId>
+            <version>1.1.1</version>
+        </dependency>
+    </dependencies>
 </project>
