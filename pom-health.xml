@@ -6,17 +6,5 @@
    <modelVersion>4.0.0</modelVersion>
    <groupId>com.github.outsystems</groupId>
    <artifactId>oshealthfitness-android</artifactId>
-   <version>0.0.31</version>
-   <dependencies>
-        <dependency>
-            <groupId>androidx.room</groupId>
-            <artifactId>room-runtime</artifactId>
-            <version>2.3.0</version>
-        </dependency>
-        <dependency>
-            <groupId>android.arch.persistence.room</groupId>
-            <artifactId>compiler</artifactId>
-            <version>1.1.1</version>
-        </dependency>
-    </dependencies>
+   <version>0.0.32</version>
 </project>
