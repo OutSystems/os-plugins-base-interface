@@ -4,9 +4,25 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>BackgroundModel.momd/BackgroundModel 2.mom</key>
+		<data>
+		yHCCd9/460fxO8iCjE4/gS1t414=
+		</data>
+		<key>BackgroundModel.momd/BackgroundModel 2.omo</key>
+		<data>
+		Q/LSVpG8DoSJBRL+edkzieGGL3Y=
+		</data>
+		<key>BackgroundModel.momd/BackgroundModel.mom</key>
+		<data>
+		/YlVT9ha+PxI/RRP2bDyRYkuL7k=
+		</data>
+		<key>BackgroundModel.momd/VersionInfo.plist</key>
+		<data>
+		xHWpDXBWwTG47Esdp7cCDXirirQ=
+		</data>
 		<key>Headers/OSHealthFitnessLib-Swift.h</key>
 		<data>
-		4jUJ70W1fbGTYDAc2R0DGvSvu3A=
+		JiniwTz282WpoK66RBWBcRkE4LI=
 		</data>
 		<key>Headers/OSHealthFitnessLib.h</key>
 		<data>
@@ -14,31 +30,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		8teit2l+awDakYhg9nAksc4Sf4I=
+		tvaylGvAzYhN0G8MSj7BkqfuYMI=
 		</data>
 		<key>Modules/OSHealthFitnessLib.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		s/j35THvWD/GUoj+eEbvFKzgwS0=
+		V52WDK2johRfd6Td4ANSsuDZLgA=
 		</data>
 		<key>Modules/OSHealthFitnessLib.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		oSO0HBpL46GZqqjoRcoMMj8p/IU=
+		Yxznc/5RgOINcfB4pWdkyy7SoIY=
 		</data>
 		<key>Modules/OSHealthFitnessLib.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		u10/h4TxnX9F8KzGjtWcrWMjlok=
+		ZKaAzoeAcsCmJA9GUqtxB0rWlnM=
 		</data>
 		<key>Modules/OSHealthFitnessLib.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		s/j35THvWD/GUoj+eEbvFKzgwS0=
+		V52WDK2johRfd6Td4ANSsuDZLgA=
 		</data>
 		<key>Modules/OSHealthFitnessLib.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		oSO0HBpL46GZqqjoRcoMMj8p/IU=
+		Yxznc/5RgOINcfB4pWdkyy7SoIY=
 		</data>
 		<key>Modules/OSHealthFitnessLib.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		u10/h4TxnX9F8KzGjtWcrWMjlok=
+		ZKaAzoeAcsCmJA9GUqtxB0rWlnM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -47,11 +63,39 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>BackgroundModel.momd/BackgroundModel 2.mom</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4AJd9Pd7/sI/WasP9tYNzRJ+0LaK1kxbiLBYy21WfP4=
+			</data>
+		</dict>
+		<key>BackgroundModel.momd/BackgroundModel 2.omo</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ID7iZ24a3y9oFWUXQuTuD+THLN3kC/nGQcIYLP/VW18=
+			</data>
+		</dict>
+		<key>BackgroundModel.momd/BackgroundModel.mom</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			D1ri2V5HjrMF+bnY0cKFCdSaxl3bjqk26V9TmZN+XA4=
+			</data>
+		</dict>
+		<key>BackgroundModel.momd/VersionInfo.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			m6GcjAP8DANscnsTsHsHGsKjGBsAwLxDV3KlYka3qHA=
+			</data>
+		</dict>
 		<key>Headers/OSHealthFitnessLib-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			g0H3Kq2Z/Gf2eM80VMgy9LZmybTDrSoEqUE7MhBRjpQ=
+			BXnRPx3gm3ums0hnRlLdQ1wBiZf2R4DxAEtmZblavZg=
 			</data>
 		</dict>
 		<key>Headers/OSHealthFitnessLib.h</key>
@@ -65,42 +109,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HEV0gGgL0L0r7rtrOI6/psLi8QQM1obwM5NTlJG+d90=
+			YN6Ber5TppwOO+qkcsk3Cd81U9IOhPuWM9jip/FB1Jw=
 			</data>
 		</dict>
 		<key>Modules/OSHealthFitnessLib.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			J2QkrFCMOyPLWCTJglD1InuiaeUPIvq6oE7fV31fVSQ=
+			IVrHD+ZhC+DS6Kix6sGa9uw9cHpDCFRGzfmLJxKj3aY=
 			</data>
 		</dict>
 		<key>Modules/OSHealthFitnessLib.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fTDPx/2aCT9+oGEPfwqMqV2Qr8dA4PFEd2WPX3iWDrk=
+			K6VnH+yUQeV2Y8tirHsFVwv8PFKYLzKS4tkYWcHf1rk=
 			</data>
 		</dict>
 		<key>Modules/OSHealthFitnessLib.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HEV0gGgL0L0r7rtrOI6/psLi8QQM1obwM5NTlJG+d90=
+			YN6Ber5TppwOO+qkcsk3Cd81U9IOhPuWM9jip/FB1Jw=
 			</data>
 		</dict>
 		<key>Modules/OSHealthFitnessLib.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			J2QkrFCMOyPLWCTJglD1InuiaeUPIvq6oE7fV31fVSQ=
+			IVrHD+ZhC+DS6Kix6sGa9uw9cHpDCFRGzfmLJxKj3aY=
 			</data>
 		</dict>
 		<key>Modules/OSHealthFitnessLib.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fTDPx/2aCT9+oGEPfwqMqV2Qr8dA4PFEd2WPX3iWDrk=
+			K6VnH+yUQeV2Y8tirHsFVwv8PFKYLzKS4tkYWcHf1rk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
